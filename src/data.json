@@ -1,0 +1,23 @@
+
+{
+  "locations": [
+    {
+      "city": "Bangkok", "country": "Thailand"
+    },
+    {
+      "city": "Budapest", "country": "Hungary"
+    },
+    {
+      "city": "Prague", "country": "Czech Republic"
+    },
+    {
+      "city": "Chiang mai", "country": "Thailand"
+    },
+    {
+      "city": "Taipei", "country": "Taiwan"
+    },
+    {
+      "city": "Austin, TX", "country": "United States"
+    }
+  ]
+}
