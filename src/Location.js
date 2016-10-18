@@ -8,6 +8,10 @@ class Location extends Model {
   getCountry() {
     return this.get('country');
   }
+
+  getImage() {
+    return this.get('img');
+  }
 }
 
 export default Location;

@@ -2,22 +2,22 @@
 {
   "locations": [
     {
-      "city": "Bangkok", "country": "Thailand"
+      "city": "Bangkok", "country": "Thailand", "img": "https://nomadlist.com/assets/img/cities/bangkok-thailand-500px.jpg"
     },
     {
-      "city": "Budapest", "country": "Hungary"
+      "city": "Budapest", "country": "Hungary", "img": "https://nomadlist.com/assets/img/cities/budapest-hungary-500px.jpg"
     },
     {
-      "city": "Prague", "country": "Czech Republic"
+      "city": "Prague", "country": "Czech Republic", "img": "https://nomadlist.com/assets/img/cities/prague-czech-republic-500px.jpg"
     },
     {
-      "city": "Chiang mai", "country": "Thailand"
+      "city": "Chiang mai", "country": "Thailand", "img": "https://nomadlist.com/assets/img/cities/chiang-mai-thailand-500px.jpg"
     },
     {
-      "city": "Taipei", "country": "Taiwan"
+      "city": "Taipei", "country": "Taiwan", "img": "https://nomadlist.com/assets/img/cities/taipei-taiwan-500px.jpg"
     },
     {
-      "city": "Austin, TX", "country": "United States"
+      "city": "Austin, TX", "country": "United States", "img": "https://nomadlist.com/assets/img/cities/austin-tx-united-states-750px.jpg"
     }
   ]
 }

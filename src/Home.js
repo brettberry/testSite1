@@ -6,10 +6,19 @@ import map from 'lodash/map';
 
 const locations = map(data.locations, l => new Location(l));
 
+const styles = {
+  container: {
+    display: 'flex',
+    justifyContent: 'center'
+  }
+};
+
 class Home extends Component {
   render() {
     return (
-      <Grid locations={locations}/>
+      <div style={styles.container}>
+        <Grid locations={locations}/>
+      </div>
     );
   }
 
